@@ -8,6 +8,6 @@ import androidx.compose.ui.Modifier
 @Composable
 fun ProfileScreen() {
     Column(modifier = Modifier.fillMaxSize()) {
-        AppBar(name = "ag")
+        AppBar(name = "lol")
     }
 }
